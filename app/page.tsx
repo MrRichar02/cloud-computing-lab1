@@ -25,6 +25,10 @@ export default function Home() {
             Laboratorio 1 Cloud Computing
           </p>
 
+          <p className="text-lg text-zinc-600 dark:text-zinc-400">
+            By Ricardo, Diego and Argenis
+          </p>
+
           <div className="mt-8 w-24 h-1 bg-emerald-800 dark:bg-emerald-500 rounded-full" />
         </div>
       </main>
