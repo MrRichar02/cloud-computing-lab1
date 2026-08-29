@@ -29,6 +29,10 @@ export default function Home() {
             By Ricardo, Diego and Argenis
           </p>
 
+          <p className="text-lg text-zinc-600 dark:text-zinc-400">
+            change for aws amplify
+          </p>
+
           <div className="mt-8 w-24 h-1 bg-emerald-800 dark:bg-emerald-500 rounded-full" />
         </div>
       </main>
